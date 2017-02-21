@@ -1,7 +1,0 @@
-Area - klasa abstrakcyjna, z której dziedziczą wszystkie pozostale klasy
-W pozostalych klasach: relacja atrybucji:
-Province <-- County, Town_wth_district_rights, Delegacy
-County <-- Municipality, Rural_commune, 
-               Urban_rural_commune
-Rural_commune <-- Rural_area
-Municipality <-- City
